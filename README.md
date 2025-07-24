@@ -18,7 +18,7 @@
 const rulif = {
     name: "Rulif Fadria Nirwansyah",
     location: "Bandung, Indonesia 🇮🇩",
-    education: "Universitas Sangga Buana",
+    education: "Universitas Sangga Buana YPKP",
     currentFocus: "Full-Stack Development",
     passion: ["Coding", "Learning", "Innovation"],
     motto: "Code with passion, learn with purpose! 💫"
