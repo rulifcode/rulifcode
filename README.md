@@ -1,123 +1,139 @@
-# 🚀 Welcome to My Digital Universe!
+Here's a more cosmic and elegant version of your README with planetary themes and refined styling:
+
+```markdown
+# 🪐 Cosmic Coder: Rulif's Galactic Dev Hub
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rulif+Fadria+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Student+%26+Tech+Enthusiast+%F0%9F%93%9A;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=32&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Greetings+Earthling%2C+I'm+Rulif+Fadria;Full-Stack+Cosmic+Explorer;Student+%E2%AD%90%EF%B8%8F+Open-Source+Contributor;Building+Digital+Galaxies+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://i.gifer.com/origin/4e/4e8dc9a6a5d8c0c2a0d9c4b5e8c2f1a.gif" width="600">
 </div>
 
 ---
 
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 🌌 Celestial Profile
 
 ```typescript
-const rulif = {
-    name: "Rulif Fadria Nirwansyah",
-    location: "Bandung, Indonesia 🇮🇩",
-    education: "Universitas Sangga Buana",
-    currentFocus: "Full-Stack Development",
-    passion: ["Coding", "Learning", "Innovation"],
-    motto: "Code with passion, learn with purpose! 💫"
-};
+interface CosmicDev {
+    name: "Rulif Fadria Nirwansyah";
+    coordinates: "Bandung, Indonesia 🗺️";
+    constellation: "Universitas Sangga Buana";
+    currentMission: "Building Litera - Online Library System";
+    techStack: ["PHP", "Laravel", "Python", "Data Science"];
+    superpowers: ["Problem Solving", "Continuous Learning", "UI/UX Sense"];
+    cosmicMotto: "To infinity and beyond through code!";
+}
 ```
 
-### 🌟 Current Journey
-- 🔭 **Building:** [Litera - Perpustakaan Online](https://perpustakaanlitera.my.id/)
-- 🌱 **Learning:** Laravel Framework & Advanced PHP
-- 💡 **Exploring:** Data Science & Analytics
-- 🤝 **Open for:** Collaboration on Library Management Systems
-- 💬 **Ask me about:** PHP, MySQLI, Web Dev, Data Science
+### 🚀 Current Trajectory
+- 🌠 **Orbiting Project:** [Litera Digital Library](https://perpustakaanlitera.my.id/)
+- 📡 **Transmitting Knowledge:** Laravel & Advanced PHP Patterns
+- 🔭 **Telescope Focus:** Data Science & Machine Learning
+- 🛰️ **Open for:** Collaborative Space Missions (Open Source)
+- 💫 **Specialization:** Library Management Architectures
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛸 Tech Nebula
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=php,python,java,javascript,typescript,html,css" />
+### 🪐 Planetary Languages
+<img src="https://skillicons.dev/icons?i=php,python,java,js,ts,html,css&theme=dark&perline=7" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=laravel,codeigniter,flask,bootstrap,react" />
+### 🌠 Framework Constellations
+<img src="https://skillicons.dev/icons?i=laravel,codeigniter,flask,bootstrap,react,nodejs&theme=dark&perline=6" />
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,oracle,firebase" />
+### 🗄️ Database Black Holes
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle,firebase&theme=dark&perline=5" />
 
-### Design & Development Tools
-<img src="https://skillicons.dev/icons?i=figma,git,android,vscode,github" />
+### 🛠️ Cosmic Dev Tools
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,androidstudio,ps&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rulifcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulifcode&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulifcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rulifcode&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rulifcode&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🌐 Let's Connect!
+## 📡 GitHub Deep Space Telemetry
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ruliffadrian)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruliffadrian)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rulifcode)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruliffax@gmail.com)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rulifcode&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rulifcode&theme=nightowl&hide_border=true&fire=7F5AF0&currStreakLabel=7F5AF0" /> |
+| ------------- | ------------- |
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulifcode&layout=compact&theme=nightowl&hide_border=true&langs_count=8&bg_color=0D1117&title_color=7F5AF0" width="60%" />
 
 </div>
 
 ---
 
-## 💫 Fun Facts
+## 🏆 Cosmic Achievements
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://github-profile-trophy.vercel.app/?username=rulifcode&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
-- 🎓 Active student passionate about technology
-- 📚 Love building library management systems
-- 🌱 Always learning something new every day
-- ☕ Fueled by coffee and curiosity
-- 🎯 Goal: Contributing to open-source projects
+---
+
+## 🌠 Contribution Supernova
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rulifcode&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=7F5AF0&line=2ED9C3&point=45F8FF" width="90%" />
+</div>
+
+---
+
+## 📡 Interstellar Communication Array
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=161B22)](https://linkedin.com/in/ruliffadrian)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=161B22)](https://instagram.com/ruliffadrian)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=161B22)](https://github.com/rulifcode)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=161B22)](mailto:ruliffax@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=161B22)](https://discordapp.com/users/yourid)
+
+</div>
+
+---
+
+## 🌌 Cosmic Fun Facts
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/5a232d5ec0998d6a169dec42c6de8281/tumblr_pwa4bogQ4k1tf5j6no1_500.gifv" width="600">
+</div>
+
+- 🪐 My code sometimes reaches escape velocity
+- 📚 Building digital libraries is my lightspeed hobby
+- ☄️ Coffee is my rocket fuel
+- 🌍 1 Earthling passionate about technology
+- 🚀 Next mission: Contribute to major open-source projects
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
   
-### 🌟 "Code is poetry written in logic" 🌟
+### "The universe is under no obligation to make sense to you, but code should be." - Neil deGrasse Tyson (adapted)
 
-<img src="https://komarev.com/ghpvc/?username=rulifcode&label=Profile%20Views&color=brightgreen&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=rulifcode&label=Stellar+Visitors&color=7F5AF0&style=flat-square" />
 
 </div>
+```
+
+Key improvements:
+1. **Cosmic Theme**: Added space/planetary metaphors throughout
+2. **Elegant Color Scheme**: Purple/teal cosmic colors with dark backgrounds
+3. **Refined Layout**: Better organized sections with consistent spacing
+4. **Enhanced Visuals**: Space-themed GIFs and animations
+5. **Professional Typography**: Space Mono font for headers
+6. **Interactive Elements**: Animated typing SVG and waving footer
+7. **Consistent Badges**: Uniform styling for all social badges
+8. **Tech Stack Presentation**: Better organized with thematic grouping
+
+The design now has a cohesive cosmic/tech aesthetic while maintaining professionalism and readability.
