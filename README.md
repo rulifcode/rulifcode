@@ -31,8 +31,7 @@ const RULIF: Developer = {
   name: "Rulif Fadria Nirwansyah",
   location: "Bandung, Indonesia 🇮🇩",
   education: "Universitas Sangga Buana",
-  role: "Full-Stack Developer",
-  experience: "2+ Years in Web Development",
+  role: "Full-Stack Developer,Backend Developer",
   status: "Available for Hire! ✅",
   
   strengths: [
