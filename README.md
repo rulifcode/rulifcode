@@ -19,6 +19,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
+<h2 align="center">🧊 About Me In 3D 🧊</h2>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -30,7 +31,8 @@ const RULIF: Developer = {
   name: "Rulif Fadria Nirwansyah",
   location: "Bandung, Indonesia 🇮🇩",
   education: "Universitas Sangga Buana",
-  role: "Full-Stack Developer,Backend Developer",
+  role: "Full-Stack Developer",
+  experience: "2+ Years in Web Development",
   status: "Available for Hire! ✅",
   
   strengths: [
@@ -103,7 +105,16 @@ export default RULIF;
   <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,html,css&theme=dark&perline=7" />
   
   <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,flask&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,flask,express,django,fastapi&theme=dark&perline=7" />
+  
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/PHP-3D?style=for-the-badge&logo=php&logoColor=white&color=777BB4" alt="PHP" />
+    <img src="https://img.shields.io/badge/MySQLi-3D?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQLi" />
+    <img src="https://img.shields.io/badge/Python-3D?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-3D?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Java_Spring-3D?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F" alt="Java Spring" />
+    <img src="https://img.shields.io/badge/ASP.NET-3D?style=for-the-badge&logo=dotnet&logoColor=white&color=512BD4" alt="ASP.NET" />
+  </div>
   
   <h3>🎨 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,jquery,tailwind&theme=dark&perline=4" />
@@ -216,7 +227,7 @@ export default RULIF;
 <h2 align="center">📬 Let's Connect & Collaborate 📬</h2>
 
 <div align="center">
-  <img src="/images/Collaboration.jpg" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8704f-6c92-4977-9c3e-1d376cedff48.gif" width="400">
 </div>
 
 <p align="center">
