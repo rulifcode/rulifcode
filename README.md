@@ -17,6 +17,7 @@
 ```typescript
 const rulif = {
     name: "Rulif Fadria Nirwansyah",
+    age: 20,
     location: "Bandung, Indonesia 🇮🇩",
     education: "Universitas Sangga Buana",
     role: "Full-Stack Developer",
@@ -46,13 +47,13 @@ const rulif = {
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,java,go,html,css" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,html,css" />
 
 ### 🚀 Backend Development  
-<img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,flask,go" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,flask,go" />
 
 ### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=react,bootstrap,jquery,redux" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,redux" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
@@ -126,6 +127,49 @@ const rulif = {
 - 🤝 **Collaborative teams** that value innovation
 - 📚 **Continuous learning** environment
 - 🌏 **Remote or Bandung-based** positions
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+### 📜 **Professional Certifications**
+
+[![HP Life Data Science](https://img.shields.io/badge/HP_Life-Data_Science-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://www.life-global.org/)
+[![IBM Granite](https://img.shields.io/badge/IBM-Code_Generation_&_Optimization-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/granite)
+[![Hactiv8 Golang](https://img.shields.io/badge/Hactiv8-Backend_Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://www.hacktiv8.com/)
+
+### 🎓 **Program Completions**
+
+[![Magenta BUMN](https://img.shields.io/badge/Magenta_BUMN-Learning_Management_System-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://magenta-academy.com/)
+[![Skill Academy](https://img.shields.io/badge/Skill_Academy-Microsoft_Excel_Basic-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://skillacademy.com/)
+
+### 💼 **Internship & Work Experience**
+
+[![PT Cakrawala Global Yaksa](https://img.shields.io/badge/PT_Cakrawala_Global_Yaksa-PKL_Certificate-2E8B57?style=for-the-badge&logo=building&logoColor=white)](#)
+[![SMK Negeri 1 Cisarua](https://img.shields.io/badge/SMK_N_1_Cisarua-Industrial_Internship-4169E1?style=for-the-badge&logo=school&logoColor=white)](#)
+
+### 🏆 **Key Achievements**
+
+- 🧠 **Data Science Certified** - HP Life Global Learning Platform
+- 🤖 **AI/ML Specialized** - IBM Granite Code Generation & Optimization  
+- 🐹 **Backend Developer** - Golang Certificate from Hactiv8
+- 🏢 **Corporate Learning** - Magenta BUMN Digital Transformation Program
+- 📊 **Business Skills** - Microsoft Excel Advanced Proficiency
+- 💼 **Industry Experience** - Completed professional internship at PT. Cakrawala Global Yaksa
+- 🎓 **Academic Integration** - Vocational school industry collaboration program
+
+### 📈 **Technical Specializations**
+- **Data Science & Analytics** (HP Life Program)
+- **AI Code Generation** (IBM Granite Technology)
+- **Backend Development** (Golang - Hactiv8)
+- **Enterprise Systems** (Magenta BUMN LMS)
+- **Business Intelligence** (Microsoft Excel)
+
+> **💡 Fun Fact:** Combination of Data Science + Backend Development + AI makes me a unique **Full-Stack Data Engineer**!
 
 ---
 
