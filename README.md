@@ -1,7 +1,7 @@
 # 🚀 Welcome to My Digital Universe!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rulif+Fadria+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Student+%26+Tech+Enthusiast+%F0%9F%93%9A;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rulif+Fadria+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Ready+for+New+Opportunities+%F0%9F%9A%80;Building+Amazing+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,47 +19,112 @@ const rulif = {
     name: "Rulif Fadria Nirwansyah",
     location: "Bandung, Indonesia 🇮🇩",
     education: "Universitas Sangga Buana",
-    currentFocus: "Full-Stack Development",
-    passion: ["Coding", "Learning", "Innovation"],
-    motto: "Code with passion, learn with purpose! 💫"
+    role: "Full-Stack Developer",
+    experience: "2+ Years in Web Development",
+    availability: "Open to opportunities",
+    strengths: ["Problem Solving", "Team Collaboration", "Fast Learning"],
+    passion: ["Clean Code", "Innovation", "User Experience"],
+    motto: "Turning ideas into digital reality! 💫"
 };
 ```
+
+## 🎯 Why Hire Me?
+
+- ⚡ **Fast Learner**: Quickly adapt to new technologies and frameworks
+- 🔥 **Problem Solver**: Love tackling complex challenges with creative solutions  
+- 🤝 **Team Player**: Excellent communication and collaboration skills
+- 📱 **Full-Stack Expertise**: From database design to responsive frontend
+- 🎯 **Quality Focus**: Write clean, maintainable, and scalable code
+- 🚀 **Project Experience**: Built multiple real-world applications
+- 📈 **Growth Mindset**: Always seeking to improve and learn new skills
+
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=php,python,java,javascript,typescript,html,css" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,java,html,css" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=laravel,codeigniter,flask,bootstrap,react" />
+### 🚀 Backend Development  
+<img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,flask" />
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,oracle,firebase" />
+### ⚛️ Frontend Development
+<img src="https://skillicons.dev/icons?i=react,bootstrap,jquery" />
 
-### Design & Development Tools
-<img src="https://skillicons.dev/icons?i=figma,git,android,vscode,github" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,firebase" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,android,docker" />
 
 </div>
 
 ---
 
+## 💼 Professional Highlights
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+</div>
+
+### 🎯 **Key Projects**
+- 📚 **Library Management System** - Complete CRUD operations with user management
+- 🛒 **E-commerce Platform** - Full-stack solution with payment integration
+- 📱 **Mobile-First Applications** - Responsive design with modern UI/UX
+- 🔐 **Authentication Systems** - Secure login/register with role management
+
+### 🌟 **Technical Skills**
+- **Backend**: PHP (Laravel, CodeIgniter), Node.js, Python (Flask)
+- **Frontend**: React.js, TypeScript, Bootstrap, Responsive Design
+- **Database**: MySQL, Oracle, MongoDB, Firebase
+- **Version Control**: Git, GitHub collaboration
+- **Development**: RESTful APIs, MVC Architecture, Database Design
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rulifcode&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulifcode&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulifcode&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rulifcode&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rulifcode&theme=tokyonight&no-frame=true&row=2&column=4" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rulifcode&theme=tokyo-night&hide_border=true&area=true" />
 </div>
+
+---
+
+## 🎯 What I'm Looking For
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+- 💼 **Full-Stack Developer** positions
+- 🌱 **Junior to Mid-level** opportunities  
+- 🏢 **Tech companies** with growth opportunities
+- 🤝 **Collaborative teams** that value innovation
+- 📚 **Continuous learning** environment
+- 🌏 **Remote or Bandung-based** positions
 
 ---
 
@@ -76,17 +141,36 @@ const rulif = {
 
 ---
 
-## 💫 Fun Facts
+## 💫 Fun Facts & Personal Touch
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
 
-- 🎓 Active student passionate about technology
-- 📚 Love building library management systems
-- 🌱 Always learning something new every day
-- ☕ Fueled by coffee and curiosity
-- 🎯 Goal: Contributing to open-source projects
+- 🎓 **Active Computer Science Student** at Universitas Sangga Buana
+- 📚 **Library System Enthusiast** - Built multiple management systems
+- 🌱 **Daily Learner** - Always exploring new technologies
+- ☕ **Coffee Powered** - Best debugging happens with good coffee
+- 🎯 **Open Source Contributor** - Giving back to the community
+- 🏀 **Work-Life Balance** - Coding by day, sports by evening
+- 🎵 **Music Lover** - Coding playlist always ready!
+
+---
+
+## 📞 Ready to Collaborate?
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+</div>
+
+**I'm currently available for:**
+- 💼 Full-time opportunities
+- 🤝 Freelance projects  
+- 👥 Collaborative development
+- 🎯 Internship programs
+- 📚 Knowledge sharing sessions
+
+**Response Time:** Usually within 24 hours ⚡
 
 ---
 
@@ -96,9 +180,11 @@ const rulif = {
 
 <div align="center">
   
-### 🌟 "Code is poetry written in logic" 🌟
+### 🌟 "Great code is not just written, it's crafted with passion" 🌟
+### 💼 Open for Opportunities | 🚀 Ready to Build Amazing Things
 
 <img src="https://komarev.com/ghpvc/?username=rulifcode&label=Profile%20Views&color=brightgreen&style=flat-square" />
 
+**Let's build something amazing together! 🚀**
+
 </div>
-modifikasi agar lebih keren lagi beckground nuansa planet dan lebih elegan
