@@ -20,7 +20,8 @@ const rulif = {
     location: "Bandung, Indonesia 🇮🇩",
     education: "Universitas Sangga Buana",
     role: "Full-Stack Developer",
-    experience: "2+ Years in Web Development",
+    techStack: ["PHP", "TypeScript", "Java", "Go", "React"],
+    databases: ["MySQL", "MongoDB", "Firebase"],
     availability: "Open to opportunities",
     strengths: ["Problem Solving", "Team Collaboration", "Fast Learning"],
     passion: ["Clean Code", "Innovation", "User Experience"],
@@ -45,19 +46,19 @@ const rulif = {
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,java,html,css" />
+<img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,java,go,html,css" />
 
 ### 🚀 Backend Development  
-<img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,flask" />
+<img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,flask,go" />
 
 ### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=react,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,jquery,redux" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,android,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
 
 </div>
 
@@ -76,11 +77,11 @@ const rulif = {
 - 🔐 **Authentication Systems** - Secure login/register with role management
 
 ### 🌟 **Technical Skills**
-- **Backend**: PHP (Laravel, CodeIgniter), Node.js, Python (Flask)
-- **Frontend**: React.js, TypeScript, Bootstrap, Responsive Design
-- **Database**: MySQL, Oracle, MongoDB, Firebase
+- **Backend**: PHP (Laravel, CodeIgniter), Node.js, Go, Python (Flask), Java
+- **Frontend**: React.js, TypeScript, JavaScript, Bootstrap, Responsive Design
+- **Database**: MySQL (MySQLi), MongoDB, Firebase
 - **Version Control**: Git, GitHub collaboration
-- **Development**: RESTful APIs, MVC Architecture, Database Design
+- **Development**: RESTful APIs, MVC Architecture, Database Design, Microservices
 
 ---
 
