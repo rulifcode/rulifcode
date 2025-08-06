@@ -24,14 +24,6 @@ const rulif = {
     motto: "Code with passion, learn with purpose! 💫"
 };
 ```
-
-### 🌟 Current Journey
-- 🔭 **Building:** [Litera - Perpustakaan Online](https://perpustakaanlitera.my.id/)
-- 🌱 **Learning:** Laravel Framework & Advanced PHP
-- 💡 **Exploring:** Data Science & Analytics
-- 🤝 **Open for:** Collaboration on Library Management Systems
-- 💬 **Ask me about:** PHP, MySQLI, Web Dev, Data Science
-
 ---
 
 ## 🛠️ Tech Arsenal
