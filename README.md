@@ -155,7 +155,7 @@ const rulif = {
 ### 🏆 **Key Achievements**
 
 - 🧠 **Data Science Certified** - HP Life Global Learning Platform
-- 🤖 **AI/ML Specialized** - IBM Granite Code Generation & Optimization  
+- 🤖 **AI/ML Specialized** - IBM Granite Code Generation & Optimization Using IBM Granite 
 - 🐹 **Backend Developer** - Golang Certificate from Hactiv8
 - 🏢 **Corporate Learning** - Magenta BUMN Digital Transformation Program
 - 📊 **Business Skills** - Microsoft Excel Advanced Proficiency
