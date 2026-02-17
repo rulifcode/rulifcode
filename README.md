@@ -17,11 +17,11 @@
 ```typescript
 const rulif = {
     name: "Rulif Fadria Nirwansyah",
-    age: 20,
+    age: 21,
     location: "Bandung, Indonesia 🇮🇩",
     education: "Universitas Sangga Buana",
     role: "Full-Stack Developer",
-    techStack: ["PHP", "TypeScript", "Java", "Go", "React"],
+    techStack: ["PHP", "TypeScript", "JavaScript", "Go", "React", "Wordpress", "Next", "Vue"],
     databases: ["MySQL", "MongoDB", "Firebase"],
     availability: "Open to opportunities",
     strengths: ["Problem Solving", "Team Collaboration", "Fast Learning"],
