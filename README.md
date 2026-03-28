@@ -19,7 +19,7 @@ const rulif = {
     name: "Rulif Fadria Nirwansyah",
     age: 21,
     location: "Bandung, Indonesia 🇮🇩",
-    education: "Universitas Sangga Buana",
+    education: "Lumoshive Academy - Bootcamp Front End React",
     role: "Full-Stack Developer",
     techStack: ["PHP", "TypeScript", "JavaScript", "Go", "React", "Wordpress", "Next", "Vue"],
     databases: ["MySQL", "MongoDB", "Firebase"],
