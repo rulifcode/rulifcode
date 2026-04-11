@@ -21,8 +21,8 @@ const rulif = {
     location: "Bandung, Indonesia 🇮🇩",
     education: "Lumoshive Academy - Bootcamp Front End React",
     role: "Full-Stack Developer",
-    techStack: ["PHP", "TypeScript", "JavaScript", "Go", "React", "Wordpress", "Next", "Vue"],
-    databases: ["MySQL", "MongoDB", "Firebase"],
+    techStack: ["PHP", "TypeScript", "JavaScript", "Go", "React", "Next.js", "Vue", "WordPress", "Redux"],
+    databases: ["MySQL", "PostgreSQL", "Firebase"],
     availability: "Open to opportunities",
     strengths: ["Problem Solving", "Team Collaboration", "Fast Learning"],
     passion: ["Clean Code", "Innovation", "User Experience"],
@@ -50,13 +50,13 @@ const rulif = {
 <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,html,css" />
 
 ### 🚀 Backend Development  
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,flask,go" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,flask,go,wordpress" />
 
 ### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=react,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
 
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
@@ -78,9 +78,9 @@ const rulif = {
 - 🔐 **Authentication Systems** - Secure login/register with role management
 
 ### 🌟 **Technical Skills**
-- **Backend**: PHP (Laravel, CodeIgniter), Node.js, Go, Python (Flask), Java
-- **Frontend**: React.js, TypeScript, JavaScript, Bootstrap, Responsive Design
-- **Database**: MySQL (MySQLi), MongoDB, Firebase
+- **Backend**: PHP (Laravel, CodeIgniter), Node.js, Go, Python (Flask), Java, WordPress
+- **Frontend**: React.js, Next.js, Redux, TypeScript, JavaScript, Bootstrap, Responsive Design
+- **Database**: MySQL, PostgreSQL, Firebase
 - **Version Control**: Git, GitHub collaboration
 - **Development**: RESTful APIs, MVC Architecture, Database Design, Microservices
 
@@ -233,3 +233,4 @@ const rulif = {
 **Let's build something amazing together! 🚀**
 
 </div>
+```
