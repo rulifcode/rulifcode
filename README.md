@@ -1,236 +1,232 @@
-# 🚀 Welcome to My Digital Universe!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rulif+Fadria+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Ready+for+New+Opportunities+%F0%9F%9A%80;Building+Amazing+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
+
+<!-- 3D HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=RULIF%20FADRIA&fontSize=70&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&fontColor=fff&stroke=7c3aed&strokeWidth=2&desc=Full-Stack%20Developer%20%E2%80%A2%20Bandung%2C%20Indonesia&descSize=18&descAlignY=75&animation=twinkling" />
+
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%E2%96%B6+Architecting+scalable+full-stack+systems;%E2%96%B6+PHP+%7C+TypeScript+%7C+Go+%7C+React+%7C+Next.js;%E2%96%B6+21+y%2Fo+%7C+Bandung+%F0%9F%87%AE%F0%9F%87%A9+%7C+Open+to+remote;%E2%96%B6+Turning+coffee+into+production-ready+code+%E2%98%95" />
+
+</div>
+
+<br/>
+
+<!-- SOCIAL BADGES ROW -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-7c3aed?style=for-the-badge&logoColor=white)](https://webrulif.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruliffadrian/)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rulifcode)
+[![Email](https://img.shields.io/badge/◈_EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruliffax@gmail.com)
+[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruliffadrian/)
+
+<img src="https://komarev.com/ghpvc/?username=rulifcode&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
+
 </div>
 
 ---
 
-## 🎯 About Me
+<!-- ABOUT ME - SPLIT LAYOUT -->
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## ⬡ `whoami`
 
 ```typescript
-const rulif = {
-    name: "Rulif Fadria Nirwansyah",
-    age: 21,
-    location: "Bandung, Indonesia 🇮🇩",
-    education: "Lumoshive Academy - Bootcamp Front End React",
-    role: "Full-Stack Developer",
-    techStack: ["PHP", "TypeScript", "JavaScript", "Go", "React", "Next.js", "Vue", "WordPress", "Redux"],
-    databases: ["MySQL", "PostgreSQL", "Firebase"],
-    availability: "Open to opportunities",
-    strengths: ["Problem Solving", "Team Collaboration", "Fast Learning"],
-    passion: ["Clean Code", "Innovation", "User Experience"],
-    motto: "Turning ideas into digital reality! 💫"
+const rulif: Developer = {
+  name:       "Rulif Fadria Nirwansyah",
+  age:         21,
+  location:   "Bandung, Indonesia 🇮🇩",
+  role:       "Full-Stack Developer",
+
+  stack: {
+    languages:  ["TypeScript", "PHP", "Go", "Python", "Java"],
+    frontend:   ["React", "Next.js", "Redux", "Vue"],
+    backend:    ["Laravel", "Node.js", "Flask", "CodeIgniter"],
+    databases:  ["PostgreSQL", "MySQL", "Firebase"],
+    tools:      ["Docker", "Git", "Postman", "Figma"],
+  },
+
+  education:  "Lumoshive — Bootcamp Front End React",
+  university: "Universitas Sangga Buana",
+  status:     "🟢 Open to opportunities",
+  motto:      "Ship fast. Learn faster.",
 };
 ```
 
-## 🎯 Why Hire Me?
+</td>
+<td width="45%" valign="top" align="center">
 
-- ⚡ **Fast Learner**: Quickly adapt to new technologies and frameworks
-- 🔥 **Problem Solver**: Love tackling complex challenges with creative solutions  
-- 🤝 **Team Player**: Excellent communication and collaboration skills
-- 📱 **Full-Stack Expertise**: From database design to responsive frontend
-- 🎯 **Quality Focus**: Write clean, maintainable, and scalable code
-- 🚀 **Project Experience**: Built multiple real-world applications
-- 📈 **Growth Mindset**: Always seeking to improve and learn new skills
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+
+<br/>
+
+> *"Great code is not just written,*
+> *it's crafted with precision."*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- 3D STATS SECTION -->
+## 📊 GitHub Intelligence
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,html,css" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rulifcode&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=a855f7&text_color=c4b5fd&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rulifcode&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a855f7&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6b7280" />
 
-### 🚀 Backend Development  
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,flask,go,wordpress" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulifcode&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c4b5fd&langs_count=8" />
 
-### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap" />
+</div>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
-
+<!-- ACTIVITY GRAPH - FULL WIDTH -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rulifcode&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=7c3aed&line=a855f7&point=c4b5fd&area=true&area_color=7c3aed" width="100%" />
 </div>
 
 ---
 
-## 💼 Professional Highlights
+<!-- 3D TROPHIES -->
+## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
-
-### 🎯 **Key Projects**
-- 📚 **Library Management System** - Complete CRUD operations with user management
-- 🛒 **E-commerce Platform** - Full-stack solution with payment integration
-- 📱 **Mobile-First Applications** - Responsive design with modern UI/UX
-- 🔐 **Authentication Systems** - Secure login/register with role management
-
-### 🌟 **Technical Skills**
-- **Backend**: PHP (Laravel, CodeIgniter), Node.js, Go, Python (Flask), Java, WordPress
-- **Frontend**: React.js, Next.js, Redux, TypeScript, JavaScript, Bootstrap, Responsive Design
-- **Database**: MySQL, PostgreSQL, Firebase
-- **Version Control**: Git, GitHub collaboration
-- **Development**: RESTful APIs, MVC Architecture, Database Design, Microservices
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rulifcode&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulifcode&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulifcode&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=rulifcode&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- TECH STACK - VISUAL GRID -->
+## ⚡ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rulifcode&theme=tokyonight&no-frame=true&row=2&column=4" />
-</div>
 
----
+**[ Languages ]**
 
-## 📈 Contribution Activity
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rulifcode&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+**[ Frontend ]**
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🎯 What I'm Looking For
+**[ Backend ]**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759b?style=flat-square&logo=wordpress&logoColor=white)
 
-- 💼 **Full-Stack Developer** positions
-- 🌱 **Junior to Mid-level** opportunities  
-- 🏢 **Tech companies** with growth opportunities
-- 🤝 **Collaborative teams** that value innovation
-- 📚 **Continuous learning** environment
-- 🌏 **Remote or Bandung-based** positions
+**[ Databases & Tools ]**
 
----
-
-## 🏅 Certifications & Achievements
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-### 📜 **Professional Certifications**
-
-[![HP Life Data Science](https://img.shields.io/badge/HP_Life-Data_Science-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://www.life-global.org/)
-[![IBM Granite](https://img.shields.io/badge/IBM-Code_Generation_&_Optimization-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/granite)
-[![Hactiv8 Golang](https://img.shields.io/badge/Hactiv8-Backend_Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://www.hacktiv8.com/)
-
-### 🎓 **Program Completions**
-
-[![Magenta BUMN](https://img.shields.io/badge/Magenta_BUMN-Learning_Management_System-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://magenta-academy.com/)
-[![Skill Academy](https://img.shields.io/badge/Skill_Academy-Microsoft_Excel_Basic-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://skillacademy.com/)
-
-### 💼 **Internship & Work Experience**
-
-[![PT Cakrawala Global Yaksa](https://img.shields.io/badge/PT_Cakrawala_Global_Yaksa-PKL_Certificate-2E8B57?style=for-the-badge&logo=building&logoColor=white)](#)
-[![SMK Negeri 1 Cisarua](https://img.shields.io/badge/SMK_N_1_Cisarua-Industrial_Internship-4169E1?style=for-the-badge&logo=school&logoColor=white)](#)
-
-### 🏆 **Key Achievements**
-
-- 🧠 **Data Science Certified** - HP Life Global Learning Platform
-- 🤖 **AI/ML Specialized** - IBM Granite Code Generation & Optimization Using IBM Granite 
-- 🐹 **Backend Developer** - Golang Certificate from Hactiv8
-- 🏢 **Corporate Learning** - Magenta BUMN Digital Transformation Program
-- 📊 **Business Skills** - Microsoft Excel Advanced Proficiency
-- 💼 **Industry Experience** - Completed professional internship at PT. Cakrawala Global Yaksa
-- 🎓 **Academic Integration** - Vocational school industry collaboration program
-
-### 📈 **Technical Specializations**
-- **Data Science & Analytics** (HP Life Program)
-- **AI Code Generation** (IBM Granite Technology)
-- **Backend Development** (Golang - Hactiv8)
-- **Enterprise Systems** (Magenta BUMN LMS)
-- **Business Intelligence** (Microsoft Excel)
-
-> **💡 Fun Fact:** Combination of Data Science + Backend Development + AI makes me a unique **Full-Stack Data Engineer**!
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ruliffadrian)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruliffadrian)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rulifcode)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruliffax@gmail.com)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 💫 Fun Facts & Personal Touch
+<!-- PROJECTS SHOWCASE -->
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-</div>
 
-- 🎓 **Active Computer Science Student** at Universitas Sangga Buana
-- 📚 **Library System Enthusiast** - Built multiple management systems
-- 🌱 **Daily Learner** - Always exploring new technologies
-- ☕ **Coffee Powered** - Best debugging happens with good coffee
-- 🎯 **Open Source Contributor** - Giving back to the community
-- 🏀 **Work-Life Balance** - Coding by day, sports by evening
-- 🎵 **Music Lover** - Coding playlist always ready!
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🎬 **RulifTaskify** | `Next.js` `Firebase` `TypeScript` | Personal task & movie discovery app |
+| 🛒 **E-Commerce Platform** | `Laravel` `MySQL` `Bootstrap` | Full-stack shop with payment integration |
+| 📚 **Library Management** | `PHP` `PostgreSQL` `jQuery` | Complete CRUD with role-based access |
+| 🔐 **Auth System** | `Node.js` `JWT` `React` | Secure multi-role authentication system |
+
+</div>
 
 ---
 
-## 📞 Ready to Collaborate?
+<!-- CERTIFICATIONS -->
+## 📜 Certifications & Experience
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+
+[![HP Life](https://img.shields.io/badge/HP_Life-Data_Science-0096d6?style=for-the-badge&logo=hp&logoColor=white)](https://www.life-global.org/)
+[![IBM](https://img.shields.io/badge/IBM_Granite-AI_Code_Generation-1261fe?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/granite)
+[![Hacktiv8](https://img.shields.io/badge/Hacktiv8-Backend_Golang-00add8?style=for-the-badge&logo=go&logoColor=white)](https://www.hacktiv8.com/)
+[![Lumoshive](https://img.shields.io/badge/Lumoshive-React_Bootcamp-7c3aed?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Magenta](https://img.shields.io/badge/Magenta_BUMN-LMS_Program-ff6b35?style=for-the-badge&logoColor=white)](https://magenta-academy.com/)
+[![PT CGY](https://img.shields.io/badge/PT_Cakrawala-Professional_Internship-2e8b57?style=for-the-badge&logoColor=white)](#)
+
 </div>
-
-**I'm currently available for:**
-- 💼 Full-time opportunities
-- 🤝 Freelance projects  
-- 👥 Collaborative development
-- 🎯 Internship programs
-- 📚 Knowledge sharing sessions
-
-**Response Time:** Usually within 24 hours ⚡
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-### 🌟 "Great code is not just written, it's crafted with passion" 🌟
-### 💼 Open for Opportunities | 🚀 Ready to Build Amazing Things
 
-<img src="https://komarev.com/ghpvc/?username=rulifcode&label=Profile%20Views&color=brightgreen&style=flat-square" />
-
-**Let's build something amazing together! 🚀**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rulifcode/rulifcode/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rulifcode/rulifcode/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rulifcode/rulifcode/output/github-snake-dark.svg" />
+</picture>
 
 </div>
+
+---
+
+<!-- HIRE ME SECTION -->
+## 💼 Why Work With Me?
+
+<div align="center">
+
 ```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ⚡ Fast Learner    →  New stack? Productive in days   │
+│   🔧 Problem Solver  →  Debug anything, ship on time    │
+│   🤝 Team Player    →  Async-first, clear communicator  │
+│   📐 Quality-Driven →  Clean code, tested, documented   │
+│   🌐 Full-Stack     →  DB schema to pixel-perfect UI    │
+│   🚀 Ship Mentality →  Iterate fast, improve always     │
+│                                                         │
+│   📍 Bandung-based  |  🌏 Remote-friendly               │
+│   ⚡ Response: <24h  |  🟢 Available NOW                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a0a2e,100:7c3aed&section=footer&reversal=false" />
+
+**Let's build something exceptional together.**
+
+[![LinkedIn](https://img.shields.io/badge/-ruliffadrian-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ruliffadrian/)
+[![Email](https://img.shields.io/badge/-ruliffax@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ruliffax@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-webrulif.vercel.app-7c3aed?style=flat-square)](https://webrulif.vercel.app/)
+
+</div>
