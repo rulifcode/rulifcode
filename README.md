@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=RULIF%20FADRIA&fontSize=70&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&fontColor=fff&stroke=7c3aed&strokeWidth=2&desc=Full-Stack%20Developer%20%E2%80%A2%20Bandung%2C%20Indonesia&descSize=18&descAlignY=75&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rulif%20Fadria Nirwansyah&fontSize=70&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&fontColor=fff&stroke=7c3aed&strokeWidth=2&desc=Full-Stack%20Developer%20%E2%80%A2%20Bandung%2C%20Indonesia&descSize=18&descAlignY=75&animation=twinkling" />
 
 </div>
 
